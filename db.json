@@ -1,5 +1,5 @@
-{
- {
+
+  {
     "id": 1,
     "path": "/test3",
     "editables" : ["sunt aut facere repellat provident", "occaecati excepturi", "optio reprehenderit","enderit", "repellat"]
@@ -15,4 +15,4 @@
     "path": "/test5",
     "editables" : ["sunt aut facere repellat provident 22", "occaecati excepturi 21", "optio reprehenderit 21","enderit 21", "repellat 21"] 
   }
-}
+
